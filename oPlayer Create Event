@@ -1,0 +1,4 @@
+// Player Variables
+hsp    = 0;
+vsp    = 0;
+walksp = 4;
